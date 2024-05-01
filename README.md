@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm shrish p</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate to learn.</h3>
+
+- 🔭 I’m currently Studying computer science **📚**
 
 - 📫 How to reach me **shrishpattewar10@gmail.com**
 
