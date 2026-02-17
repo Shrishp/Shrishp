@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrish Pattewar</h1>
-<h3 align="center">🚀 DevOps | Full-Stack Developer | AI Enthusiast from India</h3>
+<h3 align="center">🚀 Linux | DevOps | Cloud | AI Enthusiast from India</h3>
 
 <p align="center">
 🎓 Recently graduated with a **B.Tech in Computer Science Engineering** <br>
