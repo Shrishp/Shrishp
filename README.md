@@ -3,7 +3,7 @@
 
 <p align="center">
 🎓 Recently graduated with a **B.Tech in Computer Science Engineering** <br>
-💡 Passionate about **DevOps, Full-Stack Development, Cloud Technologies and Artificial Intelligence** <br>
+💡 Passionate about **Linux, DevOps, Development, Cloud Technologies and Artificial Intelligence** <br>
 📧 Reach me at: **shrishpattewar10@gmail.com**
 </p>
 
